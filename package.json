@@ -1,0 +1,17 @@
+{
+  "name": "vite-dirname",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vite --clearScreen=false"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "vite": "^2.1.3"
+  }
+}
